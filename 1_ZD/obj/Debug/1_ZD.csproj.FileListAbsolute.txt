@@ -1,0 +1,7 @@
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\bin\Debug\1_ZD.exe.config
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\bin\Debug\1_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\bin\Debug\1_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\obj\Debug\1_ZD.csprojAssemblyReference.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\obj\Debug\1_ZD.csproj.CoreCompileInputs.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\obj\Debug\1_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\1_ZD\1_ZD\obj\Debug\1_ZD.pdb
